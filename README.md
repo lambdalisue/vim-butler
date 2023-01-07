@@ -6,7 +6,7 @@
 
 Butler (_butler.vim_) is a plugin to communicate with [OpenAI APIs](https://openai.com/api/)from Vim/Neovim.
 
-https://user-images.githubusercontent.com/546312/211154400-eccd46f7-33db-48bd-b406-ec81765f3898.mp4
+![CleanShot 2023-01-07 at 23 12 16](https://user-images.githubusercontent.com/546312/211155037-711bc7c7-20a9-4e85-9fea-6a44006a4d50.gif)
 
 ## Requirements
 
@@ -17,6 +17,10 @@ and denops.vim
   Vim/Neovim plugin in Deno.
 
 [vim-denops/denops.vim]: https://github.com/vim-denops/denops.vim
+
+## Screencast
+
+https://user-images.githubusercontent.com/546312/211154929-d1edc46a-d8c3-4e0c-a327-7e04134da425.mp4
 
 ## License
 
