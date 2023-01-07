@@ -20,7 +20,7 @@ and denops.vim
 
 ## Screencast
 
-https://user-images.githubusercontent.com/546312/211154929-d1edc46a-d8c3-4e0c-a327-7e04134da425.mp4
+https://user-images.githubusercontent.com/546312/211155301-fa91346a-48a8-40a2-a64a-e675ce126d79.mp4
 
 ## License
 
