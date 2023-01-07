@@ -4,13 +4,13 @@
 
 **Under development**
 
-Butler (_butler.vim_) is a plugin to communicate with [OpenAI APIs](https://openai.com/api/)from Vim/Neovim.
+Butler (_butler.vim_) is a plugin to communicate with [OpenAI APIs](https://openai.com/api/) from Vim/Neovim.
 
 ![CleanShot 2023-01-07 at 23 12 16](https://user-images.githubusercontent.com/546312/211155037-711bc7c7-20a9-4e85-9fea-6a44006a4d50.gif)
 
 ## Requirements
 
-Gin is written in denops thus users need to install [Deno](https://deno.land)
+Butler is written in denops thus users need to install [Deno](https://deno.land)
 and denops.vim
 
 - [vim-denops/denops.vim][vim-denops/denops.vim]<br> An ecosystem for writing
