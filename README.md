@@ -15,6 +15,7 @@ and denops.vim
 
 - [vim-denops/denops.vim][vim-denops/denops.vim]<br> An ecosystem for writing
   Vim/Neovim plugin in Deno.
+- `OPENAI_API_KEY` environment variable<br>Users can create the key at https://beta.openai.com/account/api-keys
 
 [vim-denops/denops.vim]: https://github.com/vim-denops/denops.vim
 
